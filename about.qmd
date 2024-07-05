@@ -1,5 +1,5 @@
 ---
 title: "About"
 ---
-
-Justin You
+## About Me
+Hello, my name is **Justin You** and I went to *UCSB*
