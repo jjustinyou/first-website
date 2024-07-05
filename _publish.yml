@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: cd0b3a98-5687-4c91-a61d-f76cdad365f6
+      url: 'https://jyou.quarto.pub/a-new-website'
